@@ -1,0 +1,8 @@
+name: CustomItemsPlugin
+version: 1.0
+description: A Spigot plugin with custom items and special actions
+author: YourName
+main: com.example.plugin.YourPlugin
+api-version: 1.21
+commands:
+  customitem: {}
